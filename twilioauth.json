@@ -1,0 +1,6 @@
+{	
+	"ACCOUNT SID":"Twilio SID",
+	"TOKEN": "Twilio token",
+	"TwilioNum": "Your twilio number",
+	"MyNum": "Your country code and phone number"
+}
